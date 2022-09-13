@@ -1,0 +1,6 @@
+overwrite: true
+schema: "schema.graphql"
+generates:
+  doc.md:
+    plugins:
+      - index.js

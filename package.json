@@ -1,0 +1,16 @@
+{
+  "name": "codegen-plugin-md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/noideafornickname/codegen-plugin-md.git",
+  "author": "wangjichang <wangjc@shtianxin.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@graphql-codegen/cli": "^2.6.2",
+    "@graphql-codegen/introspection": "^2.1.1",
+    "@graphql-codegen/typescript": "^2.4.5",
+    "@graphql-codegen/typescript-resolvers": "^2.5.2",
+    "graphql": "^16.6.0",
+    "typescript": "^4.1.2"
+  }
+}
